@@ -1,1 +1,4 @@
-comandos.txt
+packages/
+secret.js
+*.txt
+*.log
